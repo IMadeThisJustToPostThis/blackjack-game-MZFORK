@@ -1,3 +1,0 @@
-- finish basic functionality following the post-mvp guidelines
-- add in mongo based back end
-- connect to mongodb atlas for backend and heroku for frontend
